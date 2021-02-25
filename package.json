@@ -1,7 +1,7 @@
 {
   "name": "Fitness-Tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A web app for tracking daily workouts. Users can pickup where they left off on their last workout or log a new workout.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
