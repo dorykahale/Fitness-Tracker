@@ -1,10 +1,10 @@
-# Workout-Tracker
+# Fitness-Tracker
 
 ## Description
 
 A web app for tracking your workouts day in and day out.
 
-With workout tracker a user can pickup where they left off on their last workout or log a new workout. The user can add multiple exercises to their workout before completing the workout.
+With this Fitness Tracker a user can pickup where they left off on their last workout or log a new workout.
 
 When a user visits their dashboard, they are presented with their stats:
 
