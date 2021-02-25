@@ -1,21 +1,18 @@
-# Fitness-Tracker
+Fitness-Tracker
+  * [Description](#Description)
+  * [Technologies](#Technologies)
+  * [Questions](#Questions)
 
 ## Description
+A web app for tracking daily workouts. 
+Users can pickup where they left off on their last workout or log a new workout.
 
-A web app for tracking your workouts day in and day out.
+Dashboard displays daily stats:
+* Minutes spent on workout.
+* Weights used in workout.
 
-With this Fitness Tracker a user can pickup where they left off on their last workout or log a new workout.
 
-When a user visits their dashboard, they are presented with their stats:
-
-* Graph that tracks how much time in minutes they spent working daily.
-* Graph that tracks how much weight in pounds they lifted daily.
-* Pie chart that shows time spent on specific exercise.
-* Pie chart that shows exercises completed by weight.
-
-## Technologies and Features
-
-Technologies
+## Technologies
 
 * Node.js
 * MongoDB
@@ -26,13 +23,24 @@ Technologies
 ## Screenshots
 
 1. Main Page 
-
 ![](/public/assets/homepage.png)
 
-2. Add Workout
 
+2. Add Workout
 ![](/public/assets/workout.png)
 
-3. Dashboard
 
+3. Dashboard
 ![](/public/assets/stats.png)
+
+
+## Instructions
+
+1. Clone this github.
+2. Add all npm dependancies listed in package.json file
+
+## Questions
+
+Contact Information
+Github [dorykahale](https://github.com/dorykahale)
+Email: dorykahale@gmail.com
